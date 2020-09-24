@@ -1,4 +1,4 @@
-let entries = ['3 9', '-30 10', '0 9'];
+const entries = ['3 9', '-30 10', '0 9'];
 
 entries.forEach((entry) => {
   mult(entry);

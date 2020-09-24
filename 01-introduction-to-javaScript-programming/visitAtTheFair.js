@@ -1,4 +1,4 @@
-let entries = ['11 7', '-11 6', '11 -2'];
+const entries = ['11 7', '-11 6', '11 -2'];
 
 entries.forEach((entry) => {
   sum(entry);
