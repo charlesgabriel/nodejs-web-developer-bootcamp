@@ -145,3 +145,40 @@ Dado de entrada:
 1
 
 6 valores positivos
+
+
+Exibindo Números Pares
+
+ Básico
+ Princípios Básicos
+Desafios
+
+Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo.
+Entrada
+
+Você receberá 1 valor inteiro N, onde N > 0.
+Saída
+
+Exiba todos os números pares até o valor de entrada, sendo um em cada linha. 
+ 
+Exemplo de Entrada 	Exemplo de Saída
+6 	
+
+2
+4
+6
+
+Dado de entrada:
+13
+Saída esperada:
+2
+
+4
+
+6
+
+8
+
+10
+
+12
